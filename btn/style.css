@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14pt;
+    display: grid;
+    place-items: center;
+}
+
+.btn {
+    border: 5px solid;
+    color: white;
+    height: 100px;
+    width: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16pt;
+    cursor: pointer;
+}
+
+.strtbtn {
+    background-color: pink;
+    border: 5px solid palevioletred;
+}
